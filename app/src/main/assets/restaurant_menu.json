@@ -1,0 +1,74 @@
+[
+  {
+    "id": "json_peshawari_charsi_tikka",
+    "name": "Peshawari Charsi Chicken Tikka",
+    "description": "Authentic salted chicken tikka grilled over oak charcoal, prepared with traditional salt and green chili marinade.",
+    "price": 480.0,
+    "isSpicy": true,
+    "isPopular": true,
+    "isVegetarian": false,
+    "category": "Signature Charcoal Barbecue",
+    "restaurantId": "kolachi_karachi",
+    "restaurantName": "Kolachi Restaurant"
+  },
+  {
+    "id": "json_paneer_reshmi_kabab",
+    "name": "Paneer Reshmi Kabab (4 Pcs)",
+    "description": "Exquisite soft cottage cheese chunks marinated in cream, saffron, and fresh ground cardamom, grilled over low embers.",
+    "price": 890.0,
+    "isSpicy": false,
+    "isPopular": false,
+    "isVegetarian": true,
+    "category": "Signature Charcoal Barbecue",
+    "restaurantId": "kolachi_karachi",
+    "restaurantName": "Kolachi Restaurant"
+  },
+  {
+    "id": "json_lahori_halwa_puri",
+    "name": "Lahori Halwa Puri Nashta",
+    "description": "Fresh golden puries served with spiced chickpea curry (cholay), potato bhujia, and rich semolina halwa cooked in ghee.",
+    "price": 380.0,
+    "isSpicy": false,
+    "isPopular": true,
+    "isVegetarian": true,
+    "category": "Traditional Naan & Sides",
+    "restaurantId": "kolachi_karachi",
+    "restaurantName": "Kolachi Restaurant"
+  },
+  {
+    "id": "json_shahi_kheer_bowl",
+    "name": "Shahi Zafrani Kheer",
+    "description": "Traditional slow-cooked milk and rice pudding, flavored with real saffron threads, cardamoms, almonds, and served chilled.",
+    "price": 220.0,
+    "isSpicy": false,
+    "isPopular": true,
+    "isVegetarian": true,
+    "category": "Sides & Desserts",
+    "restaurantId": "savour_pulao",
+    "restaurantName": "Savour Foods"
+  },
+  {
+    "id": "json_shami_kabab_extra",
+    "name": "Shami Kabab (Duo Pack)",
+    "description": "Two traditional crispy-fried pan-grilled patties of minced beef and chana dal, heavily spiced with whole garam masala.",
+    "price": 240.0,
+    "isSpicy": true,
+    "isPopular": false,
+    "isVegetarian": false,
+    "category": "Sides & Desserts",
+    "restaurantId": "savour_pulao",
+    "restaurantName": "Savour Foods"
+  },
+  {
+    "id": "json_special_mutton_yakhni_pulao",
+    "name": "Special Mutton Yakhni Pulao",
+    "description": "Fragrant basmati rice slow-cooked in rich goat-meat broth (yakhni), topped with dynamic spices and caramelized onions.",
+    "price": 780.0,
+    "isSpicy": false,
+    "isPopular": true,
+    "isVegetarian": false,
+    "category": "Legendary Pulao Plates",
+    "restaurantId": "savour_pulao",
+    "restaurantName": "Savour Foods"
+  }
+]

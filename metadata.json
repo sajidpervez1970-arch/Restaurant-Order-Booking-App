@@ -1,0 +1,6 @@
+{
+  "name": "Pak Food Delivery",
+  "description": "Restaurant booking, menu viewer, and food delivery with WhatsApp confirmation in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
